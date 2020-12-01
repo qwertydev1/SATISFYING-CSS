@@ -1,0 +1,52 @@
+/* wow, why did i do dis?*/
+/*i dunno*/
+/*welp*/
+h1{
+font-family: "Courier New", Courier, monospace;
+font-weight: bold;  
+color: white;
+}
+h2{
+font-family: "Courier New", Courier, monospace;  
+font-weight: bold;
+color: white;
+}
+h3{
+font-family: "Courier New", Courier, monospace;  
+font-weight: bold;
+color: white;
+}
+h4{
+font-family: "Courier New", Courier, monospace;  
+font-weight: bold;
+color: white;
+}
+h5{
+font-family: "Courier New", Courier, monospace;  
+font-weight: bold;
+color: white;
+}
+h6{
+font-family: "Courier New", Courier, monospace;  
+font-weight: bold;
+color: white;
+}
+p{
+font-family: "Courier New", Courier, monospace;  
+font-weight: bold;
+color: white;
+}
+.bk {
+fo
+background-color: #00ff00;
+color: #000000;
+border-radius: 20px; 
+width: fit-content;
+height:fit-content;
+padding: 30px;
+transition: all 0.65s;
+}
+.bk:hover {
+border-radius: 5px 40px;  
+padding: 60px;
+}
