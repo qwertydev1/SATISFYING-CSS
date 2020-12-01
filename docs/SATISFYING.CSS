@@ -3,6 +3,7 @@
 /*welp*/
 body {
 backround-image: url("https://www.tutorialrepublic.com/lib/images/css-illustration.png");
+background-color: #cccccc;
 }  
 h1{
 font-family: "Courier New", Courier, monospace;
