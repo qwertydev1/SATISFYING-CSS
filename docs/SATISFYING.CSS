@@ -9,36 +9,43 @@ h1{
 font-family: "Courier New", Courier, monospace;
 font-weight: bold;  
 color: white;
+cursor: default;
 }
 h2{
 font-family: "Courier New", Courier, monospace;  
 font-weight: bold;
 color: white;
+cursor: default;
 }
 h3{
 font-family: "Courier New", Courier, monospace;  
 font-weight: bold;
 color: white;
+cursor: default;
 }
 h4{
 font-family: "Courier New", Courier, monospace;  
 font-weight: bold;
 color: white;
+cursor: default;
 }
 h5{
 font-family: "Courier New", Courier, monospace;  
 font-weight: bold;
 color: white;
+cursor: default;
 }
 h6{
 font-family: "Courier New", Courier, monospace;  
 font-weight: bold;
 color: white;
+cursor: default;
 }
 p{
 font-family: "Courier New", Courier, monospace;  
 font-weight: bold;
 color: white;
+cursor: default;
 }
 .bk {
 background-color: #00ff00;
