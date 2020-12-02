@@ -2,7 +2,6 @@
 /*i dunno*/
 /*welp*/
 body {
-backround-image: url("https://www.tutorialrepublic.com/lib/images/css-illustration.png");
 background-color: #cccccc;
 }  
 h1{
@@ -56,8 +55,13 @@ height:fit-content;
 padding: 30px;
 transition: all 0.65s;
 cursor: default;
+color:black;
+border-width:1em;
+border-color:dark green;
 }
 .bk:hover {
 border-radius: 5px 40px;  
 padding: 60px;
+border-width:2em;
+border-color:dark blue;
 }
